@@ -1,5 +1,6 @@
 /*
-* Test Sonar Otto
+*  oTTo DIY is a great project that use a 3D pronted robot to teach coding to the kids.
+*  You can see all the information about oTTo to the oTTo official page: https://www.ottodiy.com
 */
 
 // defines pins numbers
